@@ -10,7 +10,7 @@ Passionate about **open source**, clean code, and solving real-world problems th
 - Tailwind CSS
 - Laravel & PHP (Backend)
 - Livewire
-- Filament Admin Panel
+- Filamentphp
 - Full Stack Development
 
 ---
