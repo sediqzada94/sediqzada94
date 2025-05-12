@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Samiullah Sediqzada
 
-<!--
-**sediqzada94/sediqzada94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer** from **Kabul, Afghanistan**
+Passionate about **open source**, clean code, and solving real-world problems through technology.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- React
+- Tailwind CSS
+- Laravel & PHP (Backend)
+- Livewire
+- Filament Admin Panel
+- Full Stack Development
+
+---
+
+### 📬 Contact
+- **Email**: [sediqzada94@gmail.com](mailto:sediqzada94@gmail.com)
+- **Available for**: Freelance, Full-time, and Part-time opportunities
+
+---
