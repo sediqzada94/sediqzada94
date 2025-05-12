@@ -12,6 +12,15 @@ Passionate about **open source**, clean code, and solving real-world problems th
 - Livewire
 - Filamentphp
 - Full Stack Development
+- RESTful APIs, MySQL, Alpine.js, Vite
+
+---
+
+### 👨‍💻 About Me
+- 💼 I specialize in modern full-stack web development using Laravel, Livewire, Filamentphp, React, Tailwind CSS, and Inertia.js.
+- 🧩 I enjoy building clean, scalable applications with a focus on performance and user experience.
+- 🌍 I’m passionate about knowledge sharing, collaboration, and empowering others through code.
+- 🚀 I believe in simplicity, craftsmanship, and writing meaningful software.
 
 ---
 
