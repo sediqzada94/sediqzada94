@@ -7,6 +7,7 @@ Passionate about **open source**, clean code, and solving real-world problems th
 
 ### 🛠️ Tech Stack
 - React
+- Typescript
 - Tailwind CSS
 - Laravel & PHP (Backend)
 - Livewire
