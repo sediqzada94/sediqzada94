@@ -6,12 +6,13 @@ Passionate about **open source**, clean code, and solving real-world problems th
 ---
 
 ### 🛠️ Tech Stack
-- React
+- React.js
 - Typescript
 - Tailwind CSS
 - Laravel & PHP (Backend)
 - Livewire
 - Filamentphp
+- Inertia.js
 - Full Stack Development
 - RESTful APIs, MySQL, Alpine.js, Vite
 
